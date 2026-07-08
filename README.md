@@ -47,7 +47,7 @@
 📊 **My GitHub stats** ✨
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samarayari06&show_icons=true&hide_title=true&count_private=true&theme=radical" alt="Samara's GitHub stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=samarayari06&show_icons=true&hide_title=true&count_private=true&theme=radical" alt="Samar's GitHub stats" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samarayari06&layout=compact&theme=radical" alt="Top languages" width="48%"/>
 </p>
 
