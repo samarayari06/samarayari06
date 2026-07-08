@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **ML-powered genomic pipelines** for early diagnostics @ Institut Pasteur de Tunis
 - 🌱 I’m currently learning **advanced machine learning** and **cloud computing** for omics data
-- 👯 I’m looking to collaborate on **open-source bioinformatics projects** **developping backhand and forntend plateformes to solve problems for the bioinformatician** 
+- 👯 I’m looking to collaborate on **open-source bioinformatics projects** **developping backendd and forntend plateformes to solve problems for the bioinformatician** 
 - 🤔 I’m looking for help with **scaling NGS analysis pipelines**
 - 💬 Ask me about **Python, R, NGS, and molecular docking**
 - 📫 How to reach me: **samarayari06@gmail.com**
