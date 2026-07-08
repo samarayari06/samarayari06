@@ -1,14 +1,14 @@
-# 👋 Hi there! I am Samara Ayari
+# 👋 Hi there! I am Samar Ayari
 
 ## I am a bioinformatician with a biotechnologist's heart! 🔬🧬
 
 - 🔭 I’m currently working on **ML-powered genomic pipelines** for early diagnostics @ Institut Pasteur de Tunis
 - 🌱 I’m currently learning **advanced machine learning** and **cloud computing** for omics data
-- 👯 I’m looking to collaborate on **open-source bioinformatics projects**
+- 👯 I’m looking to collaborate on **open-source bioinformatics projects** **developping backhand and forntend plateformes to solve problems for the bioinformatician** 
 - 🤔 I’m looking for help with **scaling NGS analysis pipelines**
 - 💬 Ask me about **Python, R, NGS, and molecular docking**
 - 📫 How to reach me: **samarayari06@gmail.com**
-- ⚡ Fun fact: **I love bridging the gap between the wet lab and the dry lab!**
+- ⚡ Fun fact: **I love animals especially cats**
 
 ---
 
